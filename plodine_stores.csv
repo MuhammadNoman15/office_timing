@@ -1,0 +1,145 @@
+storeName,address,mondayFriday,saturday,sunday,openOnSunday
+White Monastery,"Osijek Street 1 J, 31300 Beli Manastir",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Benkovac,"Petra Zoranića 20, 23420 Benkovac",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Biograd,"Dr. Franjo Tuđman 3, 23210 Biograd",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Bjelovar,"Pakracka 7, 43000 Bjelovar",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Buzet,"Korenik settlement 1, 52420 Buzet",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Cakovec,"Zagrebacka 2, 40000 Cakovec",07:00-21:00,07:00-21:00,Closed,FALSE
+Cakovec,"Street 34. Engineering Battalion 2, 40000 Cakovec",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Čazma,"Milana Novačića 15, 43240 Čazma",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Cepin,"King Zvonimir 6, 31431 Čepin",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Cres,"Turion 22 C, 51557 Cres",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Crikvenica,"Kotorska 9, 51260 Crikvenica",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Daruvar,"Augusta Senoe 2B, 43500 Daruvar",07:00-21:00,07:00-21:00,Closed,FALSE
+Lower Stubica,"Golubovecka 36 b, 49420 Donja Stubica",07:00-21:00,07:00-21:00,07:00-21:00,TRUE
+Donji Miholjac,"Vukovarska 97b, 31540 Donji Miholjac",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Dugo Selo,"Josipa Zorića 117, 10370 Dugo Selo",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Fažana,"Pula 20, 52212 Fažana",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Funtana,"Istrian 1 P, 52452 Funtana",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Gospic,"Budacka 25, 53000 Gospic",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Ivanić-Grad,"Savska 91, 10310 Ivanić-Grad",07:00-21:00,07:00-21:00,07:00-21:00,TRUE
+Supermarket Jastrebarsko,"Dr Franjo Tuđmana 83 A, 15450 Jastrebarsko",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Jelsa,"Jelsa 1081 A, 21465 Jelsa",07:00-22:00,07:00-22:00,Closed,FALSE
+Kali,"Island Road 10, 23272 Kali",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Karlovac,"Banija 88, 47000 Karlovac",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Kastav,"Ćikovići 9 B, 51215 Kastav",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Kastel Stafilic,"Skabrnjska 14, 21217 Kastel Stafilic",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Kastel Sucurac,"Company Road 5, 21212 Kastel Sucurac",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Koprivnica,"Ivana Cesmičkog 5a, 48000 Koprivnica",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Korcula,"Ante Starcevica 47, 20260 Korcula",07:00-22:00,07:00-22:00,Closed,FALSE
+Root,"Vranovaca 80, 53230 Korenica",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Kostrena,"Martinšcice Peak 69 D, 51221 Kostrena",07:00-22:00,07:00-22:00,Closed,FALSE
+Krapina,"Pristava Krapinska 63, 49000 Krapina",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Krapinske Toplice,"Klokovec 260 A, 49217 Krapinske Toplice",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Križevci,"Tomislavova 51, 48260 Krizevci",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Krk,"Vrsanska 28, 51500 Krk",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Kukuljanovo,"Work zone R-29 344, 51227 Kukuljanovo",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Kutina,"Zagrebacka 3, 44320 Kutina",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Labin - Baggers,"Strmac 320, 52220 Labin",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Labin - Zelenice,"Zelenice 46, 52220 Labin",07:00-22:00,07:00-22:00,Closed,FALSE
+Lepoglava,"Varaždinska 22 D, 42250 Lepoglava",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Lovran,"Marshal Tito 2 A, 51415 Lovran",07:00-22:00,07:00-22:00,Closed,FALSE
+Ludbreg,"Gospodarska 12, 42230 Ludberg",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Makarska,"Vrgorska 2, 21300 Makarska",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Malinska,"St. Vid 200, 51511 Malinska",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Matulji,"Kastavska cesta 19, 51211 Matulji",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Matulji,"Dalmatian Brigade Road 9 A, 51211 Matulji",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Medulin,"Munida 3 B, 52203 Medulin",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Metkovic,"Splitska Street 28a, 20350 Metkovic",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Betina-Murter,"Pacipolje 20, 22244 Murter - Betina",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Nasice,"King Petar Krešimir IV 4 B, 31500 Nasice",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Nin,"Dr. Franjo Tuđmana Avenue 9, 23232 Nin",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Nova Gradiska,"Grgura Ninski 19, 35400 Nova Gradiska",07:00-21:00,07:00-21:00,Closed,FALSE
+Shopping center Novalja,"SS Kranjčevića 4, 53291 Novalja",07:00-22:00,07:00-22:00,Closed,FALSE
+Novalja Čiponjac,"Chiponjac I No. 1, 53291. Novalja",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Novi Vinodolski,"Antona Mataija 17, 51250 Novi Vinodolski",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Novigrad,"Carlotte Grisi 1, 52466 Novigrad",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Novska,"65 King Tomislav Street, 44330 Novska",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Ogulin,"New Road 28, 47300 Ogulin",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Opatija (Tramontana Mall),"Tosina Street 16, 51410 Opatija",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Opuzen,"Business Zone 1A, 20355 Opuzen",07:00-22:00,07:00-22:00,Closed,FALSE
+Orebic,"Bana Josipa Jelačića 1 B, 20250 Orebic",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Osijek,"Huttlerova 30, 31000 Osijek",07:00-22:00,07:00-22:00,07:00-22:00,TRUE
+Supermarket Osijek,"JJ Strossmayerova 343, 31000 Osijek",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Otocac,"Gen Nikola Maštrović 8, 53220 Otocac",07:00-21:00,07:00-21:00,Closed,FALSE
+Ozalj,"Karlovačka cesta 125a, 47280 Ozalj",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Pag,"Braće Andrijića 1, 23250 Pag",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Pakostane,"Adriatic Highway 13, 23211 Pakostane",07:00-22:00,07:00-22:00,Closed,FALSE
+Pasman,"Island Road 14, 23262 Pasman",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Pazin,"Sime Kurelica 28, 52000 Pazin",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Petrinja,"Zagrebacka 2 B, 44250 Petrinja",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Pirovac,"Pirovačka Street 1 A, 22213 Pirovac",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Pitomača,"King Tomislav Square 10, 33405 Pitomača",07:00-21:00,07:00-21:00,Closed,FALSE
+Braiding,"Ban Josipa Jelačića Street 158 A, 34310 Braiding",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Ploce,"Black Rika 3, 20340 Ploče",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Rogoznica,"Entrance hall 1, 22203 Podglavica, Rogoznica",07:00-22:00,07:00-22:00,Closed,FALSE
+Shift,"Shift 350 C, 52100 Pomer",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Porec,"Mate Vlasica 38, 52440 Porec",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Porec,"Creska 2 A, 52440 Porec",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Poreč - Žbandaj,"Caligari Estate 2, 52440 Porec",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Posedarje,"Jadranska 44A, 23242 Posedarje",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Pozega,"Osijek 62 H, 34000 Pozega",07:00-21:00,07:00-21:00,07:00-21:00,TRUE
+Septum,"Janka Leskovar 12/2, 49218 Partition",07:00-21:00,07:00-21:00,07:00-21:00,TRUE
+Supermarket Prelog,"Antuna Mihanovica 82, 40323 Prelog",07:00-21:00,07:00-21:00,Closed,FALSE
+Privlaka,"St. Peter's Road 2, 23233 Privlaka",07:00-22:00,07:00-22:00,Closed,FALSE
+Shopping center Max City Pula,"Stands 14 A, 52100 Pula",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Pula,"Mutilska 60 B, 52100 Pula",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Pula,"Jurja Žakna 12, Šijana, 52100 Pula",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Rab,"Mundanije 12 B, 51280 Rab",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Rijeka (Srdoči),"Bartola Kasica 7, 51000 Rijeka",07:00-22:00,07:00-22:00,07:00-22:00,TRUE
+Supermarket Rijeka (Kontuševa),"Martina Kontuša 5, 51000 Rijeka",07:00-22:00,07:00-22:00,07:00-22:00,TRUE
+Supermarket Rijeka (Osijek),"Osijek 50, 51000 Rijeka",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Rijeka Verdijeva,"Trninina 3, 51000 Rijeka",07:00-21:00,07:00-21:00,Closed,FALSE
+Rijeka Shopping Center (Vukovarska),"Vukovarska 87, 51000 Rijeka",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Rijeka (ZTC),"Zvonimirova 3, 51000 Rijeka",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Rijeka Ružićeva,"Ruziceva 29, 51000 Rijeka",07:00-21:00,07:00-21:00,07:00-21:00,TRUE
+Supermarket Rijeka (RIO Kantrida),"Labinska Street 51, 51000 Rijeka",07:00-22:00,07:00-22:00,Closed,FALSE
+Zamet River,"Zametska 96, 51000 Rijeka",07:00-22:00,07:00-22:00,07:00-22:00,TRUE
+Supermarket Rijeka Drenova,"Ruzice Mihic 20, 51000 Rijeka",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Rovinj,"Fažanska 2, 52210 Rovinj",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Senj,"Old Road 9, 53270 Senj",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Sibenik,"Ivana Mestrovica 70, 22000 Sibenik",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Sibenik,"Velimir Škorpika 16, 22000 Sibenik",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Sisak,"School Street 3, 44000 Sisak",07:00-21:00,07:00-21:00,07:00-21:00,TRUE
+Supermarket Slatina,"R. Bošković Square 16/D, 33520 Slatina",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Slavonski Brod,"Northern Link Road 31, 35000 Slavonian ship",07:00-22:00,07:00-22:00,Closed,FALSE
+Split Shopping Center,"Pazdigrada Road 5, 21000 Split",07:00-22:00,07:00-22:00,Closed,FALSE
+Split Shopping Center,"Put Suplava 5, Poljud, 21000 Split",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Sukosan,"Dr Franjo Tuđmana 7, 23206 Sukošan",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Sveti Filip i Jakov,"Adriatic Road 78, 23207 St. Filip i Jakov",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Sveta Nedelja,"King Tomislav 57, 10431 Holy Sunday",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Sveti Ivan Zelina,"Zagrebacka Street 62, 10380 Sveti Ivan Zelina",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Tar-Vabriga,"Bride 7, 52465 Tar-Vabriga",07:00-22:00,07:00-22:00,Closed,FALSE
+Tribunj,"Krizine 10, 22212 Tribunj",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Trogir,"Cardinal Alojzije Stepinac 112, 21220 Trogir",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Umag,"Novigradska 24, 52470 Umag",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Valpovo,"Bizovacka 10, 31550 Valpovo",07:00-21:00,07:00-21:00,07:00-21:00,TRUE
+Supermarket Varazdin,"Gospodarska 33, 42000 Varaždin",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Varazdin,"Optujska 151, 42000 Varaždin",07:00-21:00,07:00-21:00,07:00-21:00,TRUE
+Supermarket Varaždinske Toplice,"Duga Street 59 A, 42223 Varaždinske Toplice",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Velika Gorica,"47 Kneza Ljudevit Posavskog Street, 10410 Velika Gorica",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Vinkovci,"Hrvoje Vukčića Hrvatinića 5, 32000 Vinkovci",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Vinkovci Stop Shop,"Alojzija Stepinca Street 201, 32100 Vinkovci",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Virovitica,"Vukovarska cesta 5 A, 33000 Virovitica",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Marinići,"Marinići 182, 51216 Viškovo",07:00-22:00,07:00-22:00,Closed,FALSE
+Excess,"Viskovo 32, 51216 Viškovo",07:00-22:00,07:00-22:00,07:00-22:00,TRUE
+Supermarket Vodice,"Gaćeleza Street 3, 22211 Vodice",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Vodnjan,"Prvi maj street 33, 52215 Vodnjan",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Vrbovec,"Zagrebačka 60, 10340 Vrbovec",07:00-21:00,07:00-21:00,07:00-21:00,TRUE
+Supermarket Vrsar,"St. Martin 4 A, 52450 Vrsar",07:00-22:00,07:00-22:00,Closed,FALSE
+Vukovar Stop Shop,"Zagrebacka 1A, 32000 Vukovar",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Zabok,"Josip Broz Tito 6, 49210 Zabok",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Zadar,"Biogradska 68, 23000 Zadar",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Zadar,"Cerodola Road 1, 23000 Zadar",07:00-22:00,07:00-22:00,Closed,FALSE
+Zadar Hypermarket,"Zagrebacka 2, 23000 Zadar",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Zagreb,"Vice Vukova 2, 10000 Zagreb",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Zagreb (Family Fun&Home mall),"Velimir Škorpika 11, 10000 Zagreb",07:00-22:00,07:00-22:00,07:00-22:00,TRUE
+Supermarket Zagreb (Z center),"Ljubljana Avenue 2 B, 10000 Zagreb",07:00-22:00,07:00-22:00,Closed,FALSE
+Zagreb Hypermarket,"Haleusa 1, 10000 Zagreb",07:00-22:00,07:00-22:00,Closed,FALSE
+Zagreb Hypermarket,"Štefanovec Bend 10, 10000 Zagreb",07:00-22:00,07:00-22:00,Closed,FALSE
+Zagreb Hypermarket,"Karla Metikoša 4, 10000 Zagreb",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Zaostrog,"Ostroška 1A, 21334 Zaostrog",07:00-22:00,07:00-22:00,Closed,FALSE
+Hypermarket Zaprešić,"Ante Starcevica 21, 10290 Zaprešić",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Zminj,"Karlovy Vrt 2 A, 52341 Zminj",07:00-22:00,07:00-22:00,Closed,FALSE
+Supermarket Zupanja,"Vukovarska 10, 32270 Zupanja",07:00-21:00,07:00-21:00,Closed,FALSE
+Supermarket Đakovo,"Preradovićeva 96 A, 31400 Djakovo",07:00-21:00,07:00-21:00,Closed,FALSE
